@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew N. Bernstein"
+title                    : "Meixue Duan"
 title_separator          : "-"
-name                     : &name "Matthew Bernstein"
+name                     : &name "Meixue Duan"
 description              : &description "Personal website"
 url                      : https://mbernste.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mbernste/mbernste.github.io"
+repository               : "MDuan-GT/mduan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew N. Bernstein"
+  name             : "Meixue Duan"
   avatar           : "profile.png"
   bio              : "Computational Biologist at Immunitas Therapeutics"
   location         : "Boston, MA"
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mbernste"
+  github           : "MDuan-GT"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "matthew-bernstein-1a184070"
+  linkedin         : "meixue-michelle-duan-a6902213a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
