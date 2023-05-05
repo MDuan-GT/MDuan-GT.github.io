@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm an optimistic and positive person, I believe in everything that happens to me shapes me to a better version of myself. So, I always embrace each moment and push myself moving forward.
+
 As a dedicated and persistent scientist, I am passionate and highly motivated to make meaningful contributions in the field of healthcare by uncovering innovative treatments that can eradicate the disease, alleviate patient suffering, and eventually lead to an enhanced quality of life for patients. 
 
 To filfill my faith, I applied and was admitted to [Georgia Institute of Technology](https://www.gatech.edu/) in 2016, where I earned my Ph.D. and M.S. in Bioinformatics, as well as an M.S. in Statistics in 2022. Subsequently, I joined [Immunitas Therapeutics](https://www.immunitastx.com) as a computational biology scientist upon completing my studies. 
