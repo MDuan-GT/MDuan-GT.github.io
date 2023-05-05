@@ -8,4 +8,5 @@ Human bone marrow (BM) plasma cells (BMPC) are heterogeneous ranging from newly 
 
 ![My helpful screenshot](https://github.com/MDuan-GT/MDuan-GT.github.io/blob/master/images/keystone_png.png)
 
-![My helpful screenshot]({{ " https://github.com/MDuan-GT/MDuan-GT.github.io/blob/master/images/keystone_png.png" | https://github.com/MDuan-GT/MDuan-GT.github.io/blob/master/images/keystone_png.png }})
+![My helpful screenshot]({{ " https://MDuan-GT.github.io/images/keystone_png.png" | https://MDuan-GT.github.io/images/keystone_png.png }})
+
