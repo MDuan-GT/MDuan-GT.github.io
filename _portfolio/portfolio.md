@@ -4,8 +4,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Human bone marrow (BM) plasma cells (BMPC) are heterogeneous ranging from newly arrived nascent antibody secreting cells (ASC) which mature into long-lived plasma cells (LLPC) which are exceedingly rare in the BM microniche. In 2015, Halliley et al. discovered that LLPC exist in CD19-CD38hiCD138+ human bone marrow subset and are responsible for long-lived viral antibodies in serum. In 2018, using bulk RNA-seq, Nguyen & Garimalla et al. identified important differences between BM short-lived plasma cell (SLPC) and LLPC, such as downregulation of genes in Oxphos, mTOR1 signaling, E2F targets, G2M checkpoint in LLPC and upregulation of TNF $\alpha$ signaling via NF$\kappa$B and Hypoxia. In 2019, Garimalla, Nguyen & Halliley et al. observed similar pathway alterations between blood CD19+ and CD19- populations and showed blood ASC survival potential in a human in vitro cell culture system.
 
-
-[logo]: https://github.com/MDuan-GT/MDuan-GT.github.io/blob/master/images/keystone_poster.jpg "Logo Title Text 2"
-![My helpful screenshot]({{ "  https://github.com/MDuan-GT/MDuan-GT.github.io/blob/master/images/keystone_poster.jpg" |   https://github.com/MDuan-GT/MDuan-GT.github.io/blob/master/images/keystone_poster.jpg }})
+![My helpful screenshot](https://github.com/MDuan-GT/MDuan-GT.github.io/blob/master/images/keystone_png.png)
