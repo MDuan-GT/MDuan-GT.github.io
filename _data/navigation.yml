@@ -6,7 +6,7 @@ main:
   - title: "Blog"
   url: /posts/
   
- - title: "Publications"
+  - title: "Publications"
    url: /publications/
 
 #  - title: "Talks"
