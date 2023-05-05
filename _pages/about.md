@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Computational Biologist at [Immunitas Therapeutics](https://www.immunitastx.com) where I apply statistical and machine learning-based methods to single-cell RNA-seq and spatial transcriptomics data in order to discover new immunotherapies for challenging cancers. 
 
-I received my Ph.D. in computer sciences from the [University of Wisconsin - Madison](https://www.wisc.edu) in 2019 and then went on to complete a Postdoctoral Fellowship at the [Morgridge Institute for Research](https://morgridge.org) in Madison, Wisconsin. In my academic life, I researched and developed new computational and statistical methods for mining the large, heterogeneous collections of publicly available biomedical datasets that would enable researchers to unleash their untapped knowledge in order to address outstanding questions in cell biology, human health, and disease.
+As a dedicated and persistent scientist, I am passionate and highly motivated to make meaningful contributions in the field of healthcare by uncovering innovative treatments that can eradicate the disease, alleviate patient suffering, and eventually lead to an enhanced quality of life for patients. 
+
+To filfill my faith, I applied and was admitted to [Georgia Institute of Technology](https://www.gatech.edu/) in 2016, where I earned my Ph.D. and M.S. in Bioinformatics, as well as an M.S. in Statistics in 2022. Subsequently, I joined [Immunitas Therapeutics](https://www.immunitastx.com) as a computational biology scientist upon completing my studies. 
+
+In the course of my academic studies, I researched and developed a computational workflow that could effectively and more accurately analyze scRNAseq data generated from antibody secreting cells (ASCs) in various contexts. By utilizing state-of-the-art single-cell methods to analyze these datasets, we have gained a more comprehensive understanding on ASCs' fundamental biology. Ultimately, this paved the way for treating maglignant plasma cell-induced disease and improving vaccine efficacy. While working at Immunitas, I had the opportunity to utilize cutting-edged methods in single-cell RNA-seq and spatial transcriptomics data to explore innovative immunotherapeutic approaches for challenging cancer types. 
