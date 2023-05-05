@@ -2,12 +2,12 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "Software"
-    url: /software/
     
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Blog"
+  url: /posts/
+  
+ - title: "Publications"
+   url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -15,26 +15,25 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+ - title: "Portfolio"
+   url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /posts/
 
-#  - title: "Notes"
-#    url: /notes/
+ - title: "Notes"
+   url: /notes/
     
-  - title: "Blog"
-    url: /posts/
+
  
-  - title: "Art"
-    url: /art/
+#   - title: "Art"
+#     url: /art/
     
   - title: "CV"
-    url: http://mbernste.github.io/files/CV.pdf
+    url: http://mduan-gt.github.io/files/CV.pdf
     
-  - title: "Quotes"
-    url: /quotes/
+  - title: "Contact"
+    url: /contact/
    
 #  - title: "Guide"
 #    url: /markdown/
