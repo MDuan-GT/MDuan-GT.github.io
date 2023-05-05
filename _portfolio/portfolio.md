@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Human Bone Marrow Plasma Cell Atlas"
 permalink: /portfolio/
 author_profile: true
 ---
