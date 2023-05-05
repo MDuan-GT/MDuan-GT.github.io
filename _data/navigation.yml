@@ -2,38 +2,24 @@
 main:
   - title: "Research"
     url: /research/
-    
+
   - title: "Blog"
-  url: /posts/
-  
+    url: /posts/
+
   - title: "Publications"
-   url: /publications/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
+    url: /publications/ 
     
- - title: "Portfolio"
-   url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /posts/
+  - title: "Portfolio"
+    url: /portfolio/
 
- - title: "Notes"
-   url: /notes/
-    
+  - title: "Notes"
+    url: /notes/
 
- 
-#   - title: "Art"
-#     url: /art/
-    
   - title: "CV"
     url: http://mduan-gt.github.io/files/CV.pdf
-    
+
   - title: "Contact"
     url: /Contact/
-   
+
 #  - title: "Guide"
 #    url: /markdown/
