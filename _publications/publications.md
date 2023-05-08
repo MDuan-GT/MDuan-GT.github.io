@@ -8,7 +8,7 @@ author_profile: true
 <strong>* Co-first author, equal contribution</strong>
 # Selected Publication
 
-<i class="fa fa-file-text-o"></i> <u><strong>Duan, M.**</u>, Nguyen, D. C., Joyner, C. J., Saney, C. L., Tipton, C. M., Andrews, J., . . . Lee, F. E.-H. (2023). Human Bone Marrow Plasma Cell Atlas: Maturation and Survival Pathways Unraveled by Single Cell Analyses. bioRxiv, 2023.2001.2018.524601. doi:10.1101/2023.01.18.524601 (**Recently accepted by Cell Reports**).
+<i class="fa fa-file-text-o"></i> <u><strong>Duan, M.</strong></u>, Nguyen, D. C., Joyner, C. J., Saney, C. L., Tipton, C. M., Andrews, J., . . . Lee, F. E.-H. (2023). Human Bone Marrow Plasma Cell Atlas: Maturation and Survival Pathways Unraveled by Single Cell Analyses. bioRxiv, 2023.2001.2018.524601. doi:10.1101/2023.01.18.524601 (**Recently accepted by Cell Reports**).
 
 <i class="fa fa-file-text-o"></i> Chen, R., Xia, L., Tu, K., <u><strong>Duan, M.</strong></u>, Kukurba, K., Li-Pook-Than, J., . . . Snyder, M. (2018). Longitudinal personal DNA methylome dynamics in a human with a chronic condition. Nat Med, 24(12), 1930-1939. doi:10.1038/s41591-018-0237-x
 
