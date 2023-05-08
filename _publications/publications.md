@@ -16,9 +16,6 @@ author_profile: true
 
 <i class="fa fa-file-text-o"></i> Chen, R., Xia, L., Tu, K., <u><strong>Duan, M.</strong></u>, Kukurba, K., Li-Pook-Than, J., . . . Snyder, M. (2018). Longitudinal personal DNA methylome dynamics in a human with a chronic condition. Nat Med, 24(12), 1930-1939. doi:10.1038/s41591-018-0237-x
 
-<i class="fa fa-file-text-o"></i> Gentillon, C., Li, D.,<u><strong>Duan, M.</strong></u>, Yu, W. M., Preininger, M. K., Jha, R., . . . Xu, C. (2019). Targeting HIF-1alpha in combination with PPARalpha activation and postnatal factors promotes the metabolic maturation of human induced pluripotent stem cell-derived cardiomyocytes. J Mol Cell Cardiol. doi:10.1016/j.yjmcc.2019.05.003
-
-
 <i class="fa fa-file-text-o"></i> Nguyen, D. C.,<u><strong>Duan, M.</strong></u>, Ali, M., Ley, A., Sanz, I., & Lee, F. E. (2021). Plasma cell survival: The intrinsic drivers, migratory signals, and extrinsic regulators. Immunol Rev, 303(1), 138-153. doi:10.1111/imr.13013
 
 # Recent Publications
@@ -40,6 +37,8 @@ author_profile: true
 <i class="fa fa-file-text-o"></i> Saini, A., <u><strong>Duan, M.</strong></u>, Mi, T., Hicks, S., Lee, F., Scharer, C., . . . Sanz, I. (2020b). Defining altered regulome structured in response to antigen co-receptors, toll-like receptors, and cytokine receptors stimuli to predispose early developing B cells for pathogenic fate in Systemic lupus erythematosus. The Journal of Immunology, 204, 218.216-218.216. doi:10.4049/jimmunol.204.Supp.218.6
 
 <i class="fa fa-file-text-o"></i> Li, T., Zhao, Y., Sun, Y., Li, K., Li, W., <u><strong>Duan, M.</strong></u>, & Gao, C. (2019). A Novel Approach to Assess Capacities of Red Cells in Dissolving Oxygen and Carrying Oxygen Based on a Portable Near-Infrared Spectroscopy Device. Blood, 134, 4792-4792. doi:10.1182/blood-2019-124003
+
+<i class="fa fa-file-text-o"></i> Gentillon, C., Li, D.,<u><strong>Duan, M.</strong></u>, Yu, W. M., Preininger, M. K., Jha, R., . . . Xu, C. (2019). Targeting HIF-1alpha in combination with PPARalpha activation and postnatal factors promotes the metabolic maturation of human induced pluripotent stem cell-derived cardiomyocytes. J Mol Cell Cardiol. doi:10.1016/j.yjmcc.2019.05.003
 
 <i class="fa fa-file-text-o"></i> Rampoldi, A., Singh, M., Wu, Q., <u><strong>Duan, M.</strong></u>, Jha, R., Maxwell, J. T., . . . Xu, C. (2019). Cardiac Toxicity From Ethanol Exposure in Human-Induced Pluripotent Stem Cell-Derived Cardiomyocytes. Toxicol Sci, 169(1), 280-292. doi:10.1093/toxsci/kfz038
 
