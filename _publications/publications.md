@@ -11,9 +11,9 @@ author_profile: true
 
 <i class="fa fa-file-text-o"></i> Chen, R., Xia, L., Tu, K., **Duan, M.**, Kukurba, K., Li-Pook-Than, J., . . . Snyder, M. (2018). Longitudinal personal DNA methylome dynamics in a human with a chronic condition. Nat Med, 24(12), 1930-1939. doi:10.1038/s41591-018-0237-x
 
-<i class="fa fa-file-text-o"></i> Li, T.\textsuperscript{*}, \underline{**Duan, M.**\textsuperscript{*}}, Li, K., Yu, G., & Ruan, Z. (2015). Bedside monitoring of patients with shock using a portable spatially-resolved near-infrared spectroscopy. Biomedical Optics Express, 6(9), 3431-3436. doi:10.1364/BOE.6.003431
+<i class="fa fa-file-text-o"></i> Li, T.<sup>*</sup>, <u>**Duan, M.**<sup>*</sup></u>, Li, K., Yu, G., & Ruan, Z. (2015). Bedside monitoring of patients with shock using a portable spatially-resolved near-infrared spectroscopy. Biomedical Optics Express, 6(9), 3431-3436. doi:10.1364/BOE.6.003431
 
-<i class="fa fa-file-text-o"></i> Rojas-Pena, M. L.^*, **Duan, M.**^*, Arafat, D., Rengifo, L., Herrera, S., Arevalo-Herrera, M., & Gibson, G. (2018). Individualized Transcriptional Resolution of Complicated Malaria in a Colombian Study. J Pers Med, 8(3). doi:10.3390/jpm8030029
+<i class="fa fa-file-text-o"></i> Rojas-Pena, M. L.<sup>*</sup>, **Duan, M.**<sup>*</sup>, Arafat, D., Rengifo, L., Herrera, S., Arevalo-Herrera, M., & Gibson, G. (2018). Individualized Transcriptional Resolution of Complicated Malaria in a Colombian Study. J Pers Med, 8(3). doi:10.3390/jpm8030029
 
 
 <i class="fa fa-file-text-o"></i> Gentillon, C., Li, D., **Duan, M.**, Yu, W. M., Preininger, M. K., Jha, R., . . . Xu, C. (2019). Targeting HIF-1alpha in combination with PPARalpha activation and postnatal factors promotes the metabolic maturation of human induced pluripotent stem cell-derived cardiomyocytes. J Mol Cell Cardiol. doi:10.1016/j.yjmcc.2019.05.003
