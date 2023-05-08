@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<strong>* Co-first author, equal contribution</strong>
 # Selected Publication
 
 <i class="fa fa-file-text-o"></i> <u>**Duan, M.**</u>, Nguyen, D. C., Joyner, C. J., Saney, C. L., Tipton, C. M., Andrews, J., . . . Lee, F. E.-H. (2023). Human Bone Marrow Plasma Cell Atlas: Maturation and Survival Pathways Unraveled by Single Cell Analyses. bioRxiv, 2023.2001.2018.524601. doi:10.1101/2023.01.18.524601 (**Recently accepted by Cell Reports**).
