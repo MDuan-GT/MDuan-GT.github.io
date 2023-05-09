@@ -4,39 +4,14 @@ permalink: /notes/
 author_profile: true
 ---
 
-In Notes section, it stores pieces of notes, which explain each topic in more details and will be organized into a blog and post in Blog section. 
+The Notes section contains detailed explanations of each topic, which will be organized into blog posts and shared in the Blog section. 
 
-## Miscellaneous topics
-
-## Linear algebra
-
-
-## Probability
-
-
-## Information theory
-
-
-## Probabilistic modeling
-
-**Common distributions**
-
-
-**Inference**
+## Machine Learning
 
 
 
-## Binary classification
+## Statistical Inference
 
-**Logistic regression**	
-
-
-
-**Ensemble methods**
-
-
-
-## Regression
 
 
 
