@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+#   - title: "Research"
+#     url: /research/
     
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Blog"
-    url: /posts/
+#   - title: "Blog"
+#     url: /posts/
     
-  - title: "Notes"
-    url: /notes/
+#   - title: "Notes"
+#     url: /notes/
 
   - title: "Publications"
     url: /publications/ 
